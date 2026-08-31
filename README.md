@@ -56,8 +56,8 @@ Content-Type: application/json
 **요청 본문**
 ```json
 {
-  "studentId": "20818",
-  "name": "우승민",
+  "studentId": "20819",
+  "name": "이승준",
   "time": "2026-08-31 09:12:34"
 }
 ```
